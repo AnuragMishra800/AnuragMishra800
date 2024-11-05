@@ -12,7 +12,7 @@ A Data explorer: charting the uncharted (with coffee).
 
 ### Connect with me:
 <a href="(https://www.linkedin.com/in/anurag-mishra-b17051288/)">
-<img src="(https://tse1.mm.bing.net/th?id=OIP.waOtRAV99hCXTCS_RvbK6QHaGp&pid=Api&P=0&h=220)" alt="LinkedIn" />
+<img src="(http://www.w3.org/2000/svg)" alt="LinkedIn" />
 </a>
 
 # 🛠️ Languages and Frameworks
