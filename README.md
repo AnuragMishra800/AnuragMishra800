@@ -1,15 +1,20 @@
 ## Hi there 👋 Anurag Mishra 
 
-<img src="https://media.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif" width="500" alt="Coding GIF">
-
 A Data explorer: charting the uncharted (with coffee).
 
-### About Me:
-- 😊**Pronouns**: He/Him
-- 🎓**Education**: Currently In BCA Final Year.
-- 🌱**Currently Learning**: Python, Machine Learning, and Data Visualization.
-- ⚡**Fun Fact**: Expertise in making spreadsheets laugh (okay, maybe just making sense of them).
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    ### About Me:
+    - 😊**Pronouns**: He/Him
+    - 🎓**Education**: Currently In BCA Final Year.
+    - 🌱**Currently Learning**: Python, Machine Learning, and Data Visualization.
+    - ⚡**Fun Fact**: Expertise in making spreadsheets laugh (okay, maybe just making sense of them).
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 10px;">
+  </div>
+</div>
 ### Connect with me:
 <a href="(https://www.linkedin.com/in/anurag-mishra-b17051288/)">
 <img src="(https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png)" alt="LinkedIn" />
