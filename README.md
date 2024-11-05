@@ -1,6 +1,6 @@
 ## Hi there 👋 Anurag Mishra 
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/frXrz3i1HwAwLX7Mr6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/frXrz3i1HwAwLX7Mr6">via GIPHY</a></p>
+![Coding] Gif(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFkcG8xcG95MzUzdDFvOTd6cmJndGFuMWx2ZnRzcWZsNzg2d3F3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frXrz3i1HwAwLX7Mr6/giphy.webp)
 
 A Data explorer: charting the uncharted (with coffee).
 
