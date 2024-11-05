@@ -1,6 +1,6 @@
 ## Hi there 👋 Anurag Mishra 
 
-![Coding] Gif(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFkcG8xcG95MzUzdDFvOTd6cmJndGFuMWx2ZnRzcWZsNzg2d3F3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frXrz3i1HwAwLX7Mr6/giphy.webp)
+<img src="https://media.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif" width="500" alt="Coding GIF">
 
 A Data explorer: charting the uncharted (with coffee).
 
