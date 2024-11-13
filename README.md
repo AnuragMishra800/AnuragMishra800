@@ -11,7 +11,7 @@ A Data explorer: charting the uncharted (with coffee).
 <img src="https://media.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif" width="500" alt="Coding GIF">
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/anurag-mishra-b17051288/">
+<a href="https://www.linkedin.com/in/anurag-mishra-b17051288">
 <img src="https://tse1.mm.bing.net/th?id=OIP.waOtRAV99hCXTCS_RvbK6QHaGp&pid=Api&P=0&h=220" alt="LinkedIn" width="40"/>
 </a>
 <a href="https://medium.com/@anuragmishrably800">
