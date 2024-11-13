@@ -14,6 +14,7 @@ A Data explorer: charting the uncharted (with coffee).
 <a href="https://www.linkedin.com/in/anurag-mishra-b17051288/">
 <img src="https://tse1.mm.bing.net/th?id=OIP.waOtRAV99hCXTCS_RvbK6QHaGp&pid=Api&P=0&h=220" alt="LinkedIn" width="40"/>
 </a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragmishrably800)
 
 # 🛠️ Languages and Frameworks
 
